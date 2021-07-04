@@ -1,5 +1,5 @@
 # Tools4genomes
-Scripts that maybe useful for genomes manipulation that are/were used in plant systematics Laboratory
+Scripts useful for genomes manipulation that are/were used in Plant Systematics Laboratory (UNESP/FCAV, Brazil)
 
 
 splitbyscaffold.py
